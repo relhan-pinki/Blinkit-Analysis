@@ -1,6 +1,7 @@
 # Blinkit Sales Analysis Dashboard
 
-📊 Project Overview
+
+## 📊 Project Overview
 This project is an interactive Blinkit Sales Analysis Dashboard developed in Microsoft Power BI to analyze sales performance, outlet characteristics, item categories, customer ratings, and outlet locations.
 
 -The dashboard includes interactive filters for Outlet Location, Outlet Size, Outlet Type, and Item Type.
