@@ -34,25 +34,25 @@ The dashboard tracks sales by outlet establishment year, with a noticeable peak 
 
 
 # 2. Sales by Outlet Size
-- Medium	$508K.
-- Small	$445K.
-- High	$249K.
+1. Medium	$508K.
+2. Small	$445K.
+3. High	$249K.
 
 - Medium-sized outlets generate the highest sales among the three categories.
 
 
 # 3. Sales by Outlet Location
-- Tier 3	$472.13K.
-- Tier 2	$393.15K.
-- Tier 1	$336.40K.
+1. Tier 3	$472.13K.
+2. Tier 2	$393.15K.
+3. Tier 1	$336.40K.
   
 - Tier 3 outlets contribute the highest sales among the displayed location tiers.
 
 # 4. Sales by Outlet Type
-- Grocery Store	$151.94K.
-- Supermarket Type1	$787.55K.
-- Supermarket Type2	$131.48K.
-- Supermarket Type3	$130.71K.
+1. Grocery Store	$151.94K.
+2. Supermarket Type1	$787.55K.
+3. Supermarket Type2	$131.48K.
+4. Supermarket Type3	$130.71K.
   
 - Supermarket Type1 is the strongest-performing outlet type.
 
@@ -62,8 +62,8 @@ The dashboard analyzes categories such as: Fruits and Vegetables, Snack Foods, H
 - Fruits and Vegetables and Snack Foods are among the leading categories shown.
 
 # 6. Fat Content Analysis
-- Low Fat	$776K.
-- Regular	$425K.
+1. Low Fat	$776K.
+2. Regular	$425K.
   
 - Low-fat products contribute a larger share of sales in the dashboard.
 
