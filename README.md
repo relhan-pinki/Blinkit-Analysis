@@ -16,16 +16,16 @@ Evaluate average sales, item count, and ratings.
 Create an interactive business intelligence dashboard.
 
 # 🛠️ Tools & Technologies
-Microsoft Power BI
-DAX
-Power Query
+Microsoft Power BI.
+DAX.
+Power Query.
 Data Modeling
 
 # 📌 Key KPIs
-Total Sales	$1.20M
-Average Sales	$141
-Number of Items	8,523
-Average Rating	3.9
+Total Sales	$1.20M.
+Average Sales	$141.
+Number of Items	8,523.
+Average Rating	3.9.
 
 # 📈 Dashboard Analysis
 
@@ -34,38 +34,34 @@ The dashboard tracks sales by outlet establishment year, with a noticeable peak 
 
 
 # 2. Sales by Outlet Size
-Outlet Size	Sales
-Medium	$508K
-Small	$445K
-High	$249K
-# Medium-sized outlets generate the highest sales among the three categories.
+Outlet Size	Sales.
+Medium	$508K.
+Small	$445K.
+High	$249K.
+Medium-sized outlets generate the highest sales among the three categories.
 
 
 # 3. Sales by Outlet Location
-Location	Sales
-Tier 3	$472.13K
-Tier 2	$393.15K
-Tier 1	$336.40K
-# Tier 3 outlets contribute the highest sales among the displayed location tiers.
+Tier 3	$472.13K.
+Tier 2	$393.15K.
+Tier 1	$336.40K.
+Tier 3 outlets contribute the highest sales among the displayed location tiers.
 
 # 4. Sales by Outlet Type
-Outlet Type	Total Sales
-Grocery Store	$151.94K
-Supermarket Type1	$787.55K
-Supermarket Type2	$131.48K
-Supermarket Type3	$130.71K
-# Supermarket Type1 is the strongest-performing outlet type.
+Grocery Store	$151.94K.
+Supermarket Type1	$787.55K.
+Supermarket Type2	$131.48K.
+Supermarket Type3	$130.71K.
+Supermarket Type1 is the strongest-performing outlet type.
 
 # 5. Item Type Analysis
-The dashboard analyzes categories such as:
-Fruits and Vegetables, Snack Foods, Household, Frozen Foods, Dairy, Canned, Baking Goods, Health and Hygiene, Meat, Soft Drinks, Breads, Hard Drinks, Others
-# Fruits and Vegetables and Snack Foods are among the leading categories shown.
+The dashboard analyzes categories such as: Fruits and Vegetables, Snack Foods, Household, Frozen Foods, Dairy, Canned, Baking Goods, Health and Hygiene, Meat, Soft Drinks, Breads, Hard Drinks, Others.
+Fruits and Vegetables and Snack Foods are among the leading categories shown.
 
 # 6. Fat Content Analysis
-Fat Content	Sales
-Low Fat	$776K
-Regular	$425K
-# Low-fat products contribute a larger share of sales in the dashboard.
+Low Fat	$776K.
+Regular	$425K.
+Low-fat products contribute a larger share of sales in the dashboard.
 
 
 # 🔍 Key Insights
